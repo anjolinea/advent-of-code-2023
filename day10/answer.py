@@ -1,8 +1,7 @@
-# 7-F7-
-# .FJ|7
-# SJLL7
-# |F--J
-# LJ.LJ
+"""
+Idea for part 2: if the number of full vertical pipes is odd, then it is in the loop.
+If it is even, then it is not trapped.
+"""
 
 LINES = []
 
